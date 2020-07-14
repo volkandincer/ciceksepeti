@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="dark_gray">#F7F7F7</color>
+    <color name="oldprice">#FF9A9A9A</color>
+    <color name="red">#FFFF0000</color>
+    <color name="transparent">#00000000</color>
+    <color name="delivery">#82b630</color>
+</resources>
